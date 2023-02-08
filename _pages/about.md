@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Siyuan Chen (陈思元 in Chinese) is a fourth-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). His research interest lies broadly in computer systems. He is now working on machine learning systems to accelerate DNN's traning/inference by compiler-based approaches. During spare time, he is a keen badminton player and a amateur BP debator.  
+Siyuan Chen (陈思元 in Chinese) is a fourth-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). His research interest lies broadly in computer systems. He is now working on machine learning systems to accelerate DNN's traning/inference by compiler-based approaches. During spare time, he is a keen badminton player and a amateur BP debator. 
+
+##Publications
+[1] Siyuan Chen, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. "ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine". In submission for ICML-23. [PDF]()[code]()
+
+[2] Size Zheng*, **Siyuan Chen***, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", in Proceedings of the 29th international symposium on High Performance Computer Architecture (HPCA-29), February 2023. (*Equal Contribution) [PDF]()[code]() 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
