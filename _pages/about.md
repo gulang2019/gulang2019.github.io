@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Siyuan Chen (陈思元 in Chinese) is a fourth-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). His research interest lies broadly in computer systems. He is now working on machine learning systems to accelerate DNN's traning/inference by compiler-based approaches. During spare time, he is a keen lover of badminton and BP debate. 
+Siyuan Chen (陈思元 in Chinese) is a fourth-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). Since in the summer of 2022, he has been working as a research intern at CMU, advised by [Phillip B. Gibbons](http://www.cs.cmu.edu/~gibbons/). His research interest lies broadly in computer systems. Currently, he is working on machine learning systems to accelerate DNN's traning/inference by more efficient compilation/runtime optimizations. At free time, he is a keen lover of badminton and BP debate. 
 
 <h2>Publications</h2>
 
-[1] **Siyuan Chen**, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. "ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine". In submission for ICML-23. [PDF](),[code]().
+Size Zheng\*, **Siyuan Chen\***, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", in Proceedings of the 29th international symposium on High Performance Computer Architecture (HPCA-29), February 2023. (*Equal Contribution).
 
-[2] Size Zheng\*, **Siyuan Chen\***, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", in Proceedings of the 29th international symposium on High Performance Computer Architecture (HPCA-29), February 2023. (*Equal Contribution) [PDF](),[code]().
+<h2>Preprints</h2>
+
+**Siyuan Chen**, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. "ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine". In submission for ICML-23. [PDF](http://arxiv.org/abs/2302.03851).
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -27,11 +29,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
