@@ -12,9 +12,9 @@ Siyuan Chen (陈思元 in Chinese) is a fourth-year, computer science major unde
 
 <h2>Publications</h2> (*Equal Contribution)
 
-Size Zheng*, **Siyuan Chen\***, Yun Liang. “COMB: Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC”, in the proceedings of the Design Automation Conference (**DAC-60**), July 2023.
+Size Zheng\*, <b>Siyuan Chen\*</b>, Yun Liang. “COMB: Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC”, in the proceedings of the Design Automation Conference (<b>DAC-60</b>), July 2023.
 
-Size Zheng\*, **Siyuan Chen\***, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", in Proceedings of the 29th international symposium on High Performance Computer Architecture (**HPCA-29**), February 2023. 
+Size Zheng\*, <b>Siyuan Chen\*</b>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", in Proceedings of the 29th international symposium on High Performance Computer Architecture (<b>HPCA-29</b>), February 2023. 
 
 <h2>Preprints</h2>
 
