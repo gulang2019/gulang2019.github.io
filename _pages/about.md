@@ -10,11 +10,11 @@ redirect_from:
 
 Siyuan Chen (陈思元 in Chinese) is a fourth-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). Since in the summer of 2022, he has been working as a research intern at CMU, advised by [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/). His research interest lies broadly in computer systems. Currently, he is working on machine learning systems to accelerate DNN's traning/inference by more efficient compilation/runtime optimizations. At free time, he is a keen lover of badminton and BP debate. 
 
-<h2>Publications</h2>
+<h2>Publications</h2> (*Equal Contribution)
 
-Size Zheng*, **Siyuan Chen\***, Yun Liang. “COMB: Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC”, in the proceedings of the Design Automation Conference (DAC-60), July 2023. (*Equal Contribution).
+Size Zheng*, **Siyuan Chen\***, Yun Liang. “COMB: Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC”, in the proceedings of the Design Automation Conference (**DAC-60**), July 2023.
 
-Size Zheng\*, **Siyuan Chen\***, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", in Proceedings of the 29th international symposium on High Performance Computer Architecture (HPCA-29), February 2023. (*Equal Contribution).
+Size Zheng\*, **Siyuan Chen\***, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. "Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion", in Proceedings of the 29th international symposium on High Performance Computer Architecture (**HPCA-29**), February 2023. 
 
 <h2>Preprints</h2>
 
