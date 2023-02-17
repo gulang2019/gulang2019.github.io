@@ -14,7 +14,7 @@ I am a fourth-year, computer science major undergrad student at Peking Universit
 
 - <b>COMB: Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC.</b> Size Zheng, <u>Siyuan Chen</u>, Yun Liang. The 60th Design Automation Conference (DAC), July 2023.
 
-- <b>Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.</b> Size Zheng\*, <u>Siyuan Chen\*</u>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. 29th international symposium on High Performance Computer Architecture (HPCA), February 2023. 
+- <b>Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.</b> Size Zheng*, <u>Siyuan Chen*</u>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. 29th international symposium on High Performance Computer Architecture (HPCA), February 2023. 
 
 <h2>Preprints</h2>
 
