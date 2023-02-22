@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). Since the summer of 2022, I worked as a research intern at CMU, advised by [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/). I am interested in performance modeling and algorithm design in the broad domain of computer systems. Previously, I worked on accelerating deep learning computations by efficient compilation/runtime techniques. At free time, I am a keen lover of badminton and BP debate. 
+I am a last-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). Since the summer of 2022, I worked as a research intern at CMU, instructed by [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/). I am interested in optimizations for the software application with an awareness of the hardware architecture, to maximize the potential of the underlying hardware. Previously, I engaged myself in the broad domain of machine learning systems,  working on performance modeling of memory behavior for tensor programs (Chimera, HPCA23'), mapping mechanism from DNN to cluster (COMB, DAC23'), and runtime optimization for dynamic neural networks (ED-Batch). In the future, I am thrilled to explore the co-design of the computer architecture and performance modeling, to enable the precise manipulation of the software onto the hardware by model-friendly redesign of hardware architecture. During free time, I am a keen lover of badminton and debate. 
 
 <h2>Publications</h2> (*Equal Contribution)
 
