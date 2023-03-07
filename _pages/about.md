@@ -18,7 +18,7 @@ I am a last-year, computer science major (Turning Class) undergrad student at Pe
 
 <h2>Preprints</h2>
 
-- <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ArXiv Preprint. [PDF](http://arxiv.org/abs/2302.03851).
+- <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ArXiv Preprint. [PDF](http://arxiv.org/abs/2302.03851) [code](https://github.com/gulang2019/ED-Batch). 
 
 <h2>Misc.</h2>
 [Tour to Lijiang](/posts/2023/02/lijiang/)
