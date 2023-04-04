@@ -14,11 +14,11 @@ I am a last-year, computer science major (Turning Class) undergrad student at Pe
 
 - <b>COMB: Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC.</b> Size Zheng, <u>Siyuan Chen</u>, Yun Liang. The 60th Design Automation Conference (DAC), July 2023.
 
-- <b>Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.</b> Size Zheng*, <u>Siyuan Chen*</u>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. 29th international symposium on High Performance Computer Architecture (HPCA), February 2023. 
+- <b>Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.</b> Size Zheng*, <u>Siyuan Chen*</u>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. 29th international symposium on High Performance Computer Architecture (HPCA), February 2023. [PDF](https://ieeexplore.ieee.org/abstract/document/10071018)
 
 <h2>Preprints</h2>
 
-- <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ArXiv Preprint. [PDF](http://arxiv.org/abs/2302.03851).
+- <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ArXiv Preprint. [PDF](http://arxiv.org/abs/2302.03851) [Code](https://github.com/gulang2019/ED-Batch). 
 
 <h2>Misc.</h2>
 [A tour to Lijiang](/posts/2023/2/lijiang/)
