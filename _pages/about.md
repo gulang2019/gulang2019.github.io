@@ -10,15 +10,18 @@ redirect_from:
 
 I am a last-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). Since the summer of 2022, I worked as a research intern at CMU, advised by [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/). I am interested in optimizations for the software application with an awareness of the hardware architecture, to maximize the potential of the underlying hardware. Previously, I engaged myself in the broad domain of machine learning systems,  working on performance modeling of memory behavior for tensor programs (Chimera, HPCA23'), mapping mechanism from DNN to SoC (COMB, DAC23'), and runtime optimization for dynamic neural networks (ED-Batch). In the future, I am thrilled to explore the co-design of the computer architecture and performance modeling, to enable the precise manipulation of the software onto the hardware by model-friendly redesign of hardware architecture. During free time, I am a keen lover of badminton and debate. 
 
+<h2>News</h2>
+
+- 2023.4.25 [ED-Batch](http://arxiv.org/abs/2302.03851) is accepted to ICML23', thanks for professors and collaborators!
+
 <h2>Publications</h2> (*Equal Contribution)
+
+- <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ICML 23'. [PDF](http://arxiv.org/abs/2302.03851) [Code](https://github.com/gulang2019/ED-Batch).
 
 - <b>COMB: Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC.</b> Size Zheng, <u>Siyuan Chen</u>, Yun Liang. The 60th Design Automation Conference (DAC), July 2023.
 
 - <b>Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.</b> Size Zheng*, <u>Siyuan Chen*</u>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. 29th international symposium on High Performance Computer Architecture (HPCA), February 2023. [PDF](https://ieeexplore.ieee.org/abstract/document/10071018).
-
-<h2>Preprints</h2>
-
-- <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ArXiv Preprint. [PDF](http://arxiv.org/abs/2302.03851) [Code](https://github.com/gulang2019/ED-Batch). 
+ 
 
 <h2>Misc.</h2>
 [Tour to Lijiang](/posts/2023/02/lijiang/)
