@@ -8,20 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a last-year, computer science major (Turning Class) undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). Since the summer of 2022, I worked as a research intern at CMU, advised by [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/). I am interested in optimizations for the software application with an awareness of the hardware architecture, to maximize the potential of the underlying hardware. Previously, I engaged myself in the broad domain of machine learning systems,  working on performance modeling of memory behavior for tensor programs (Chimera, HPCA23'), mapping mechanism from DNN to SoC (COMB, DAC23'), and runtime optimization for dynamic neural networks (ED-Batch). In the future, I am thrilled to explore the co-design of the computer architecture and performance modeling, to enable the precise manipulation of the software onto the hardware by model-friendly redesign of hardware architecture. During free time, I am a keen lover of badminton and debate. 
+I am a last-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). Since the summer of 2022, I worked as a research intern at CMU, advised by [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/). I am interested in optimizations for the software application with an awareness of the hardware architecture, to maximize the potential of the underlying hardware. Previously, I engaged myself in the broad domain of machine learning systems,  working on performance modeling of memory behavior for tensor programs (Chimera, HPCA23'), mapping mechanism from DNN to SoC (COMB, DAC23'), and runtime optimization for dynamic neural networks (ED-Batch). In the future, I am thrilled to explore the co-design of the computer architecture and performance modeling, to enable the precise manipulation of the software onto the hardware by model-friendly redesign of hardware architecture. During free time, I am a keen lover of badminton and debate. 
+
+<h2>News</h2>
+
+- 2023.4.25 [ED-Batch](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf) is accepted to ICML23', thanks for professors and collaborators!
 
 <h2>Publications</h2> (*Equal Contribution)
 
+- <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ICML 23'. [PDF](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf) [Code](https://github.com/gulang2019/ED-Batch) [Poster](https://icml.cc/media/PosterPDFs/ICML%202023/23611.png?t=1687519227.3393173) [Video](https://icml.cc/virtual/2023/poster/23611).
+
 - <b>COMB: Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC.</b> Size Zheng, <u>Siyuan Chen</u>, Yun Liang. The 60th Design Automation Conference (DAC), July 2023.
 
-- <b>Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.</b> Size Zheng*, <u>Siyuan Chen*</u>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. 29th international symposium on High Performance Computer Architecture (HPCA), February 2023. [PDF](https://ieeexplore.ieee.org/abstract/document/10071018).
+- <b>Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.</b> Size Zheng*, <u>Siyuan Chen*</u>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. 29th international symposium on High Performance Computer Architecture (HPCA), February 2023. [PDF](https://ieeexplore.ieee.org/abstract/document/10071018).[PDF](https://ieeexplore.ieee.org/abstract/document/10071018).
+ 
 
-<h2>Preprints</h2>
-
-- <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ArXiv Preprint. [PDF](http://arxiv.org/abs/2302.03851) [Code](https://github.com/gulang2019/ED-Batch). 
-
-<h2>Misc.</h2>
-[A tour to Lijiang](/posts/2023/2/lijiang/)
+- <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ArXiv Preprint. [PDF](http://arxiv.org/abs/2302.03851).
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

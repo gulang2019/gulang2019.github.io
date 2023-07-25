@@ -12,11 +12,12 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
+  - title: "CV"
+    url: /files/CV_siyuan.pdf
+    
   - title: "Blog"
     url: /year-archive/
     
-  - title: "CV"
-    url: /files/CV_siyuan.pdf
   
   # - title: "Guide"
   #   url: /markdown/
