@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). After graduation, I am going to [Computer Science Department](https://csd.cmu.edu) of [Carnegie Mellon University](https://www.cmu.edu) for PhD study. Since the summer of 2022, I worked as a research intern at CMU, advised by [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/).
+I am a fourth-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). After graduation, I am going to [Computer Science Department](https://csd.cmu.edu) of [Carnegie Mellon University](https://www.cmu.edu) for PhD study. Since the summer of 2022, I worked as a research intern at CMU, advised by [Phillip Gibbons](http://www.cs.cmu.edu/~gibbons/).
 
 My research interest lies in the intersection of machine learning and computer architecture. In the past, I engaged myself in developing efficient systems for machine learning,  working on performance modeling of data movement for tensor programs (Chimera, HPCA23'), mapping mechanism from DNN to SoC (COMB, DAC23'),  RL-based inference framework for dynamic neural networks (ED-Batch, ICML23'), and analytical-based simulator for fused program on general hardware (TileFlow, Upcomming). During PhD, I am thrilled to explore the codesign of DNN structure and accelerator architecture, to provide automated, analytical, and efficient for DNN's execution.
 
