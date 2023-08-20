@@ -10,10 +10,10 @@ redirect_from:
 
 I am a first year Ph.D. student at computer science department at Carnegie Mellon University. I finished my undergraduate at Turning Class of Peking University, where I was fortunately advised by [Yun (Eric) Liang](https://ericlyun.github.io/).
 
-My research interest lies broadly in developing sound and efficient software systems. Previously, I am deeply engaged in the machine learning system, working on performance modeling of data movement for tensor programs ([Chimera, HPCA23'](https://ieeexplore.ieee.org/abstract/document/10071018)), mapping mechanism from DNN to SoC (COMB, DAC23'),  RL-based inference framework for dynamic neural networks ([ED-Batch, ICML23'](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf)), and analytical-based simulator for fused program on general hardware (TileFlow, Upcomming). During Ph.D., 
+My research interest lies broadly in developing sound and efficient software systems. Previously, I am deeply engaged in the machine learning system, working on performance modeling of data movement for tensor programs ([Chimera, HPCA23'](https://ieeexplore.ieee.org/abstract/document/10071018)), mapping mechanism from DNN to SoC (COMB, DAC23'),  RL-based inference framework for dynamic neural networks ([ED-Batch, ICML23'](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf)), and analytical-based simulator for fused program on general hardware (TileFlow, Upcomming). 
 
 <h2>News</h2>
-- Aug. 2023 TileFlow is publicly available at https://github.com/gulang2019/TileFlow! 
+- Aug. 2023 TileFlow is publicly available at https://github.com/gulang2019/TileFlow ! 
 - Apr. 2023 [ED-Batch](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf) is accepted to ICML23', thanks for the mentor and professors!
 
 <h2>Publications</h2> (*Equal Contribution)
