@@ -1,20 +1,20 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Siyuan Chen (陈思元)"
+excerpt: "Siyuan Chen (陈思元)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a fourth-year, computer science major undergrad student at Peking University, advised by [Yun Liang](https://ericlyun.github.io/). After graduation, I am going to [Computer Science Department](https://csd.cmu.edu) of [Carnegie Mellon University](https://www.cmu.edu) for PhD study. Since the summer of 2022, I worked as a research intern at CMU, advised by [Phillip Gibbons](http://www.cs.cmu.edu/~gibbons/).
+I am a first year Ph.D. student at computer science department at Carnegie Mellon University. I finished my undergraduate at Turning Class of Peking University, where I was fortunately advised by [Yun (Eric) Liang](https://ericlyun.github.io/).
 
-My research interest lies in the intersection of machine learning and computer architecture. In the past, I engaged myself in developing efficient systems for machine learning,  working on performance modeling of data movement for tensor programs (Chimera, HPCA23'), mapping mechanism from DNN to SoC (COMB, DAC23'),  RL-based inference framework for dynamic neural networks (ED-Batch, ICML23'), and analytical-based simulator for fused program on general hardware (TileFlow, Upcomming). During PhD, I am thrilled to explore the codesign of DNN structure and accelerator architecture, to provide automated, analytical, and efficient for DNN's execution.
+My research interest lies broadly in developing sound and efficient software systems. Previously, I am deeply engaged in the machine learning system, working on performance modeling of data movement for tensor programs ([Chimera, HPCA23'](https://ieeexplore.ieee.org/abstract/document/10071018)), mapping mechanism from DNN to SoC (COMB, DAC23'),  RL-based inference framework for dynamic neural networks ([ED-Batch, ICML23'](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf)), and analytical-based simulator for fused program on general hardware (TileFlow, Upcomming). During Ph.D., 
 
 <h2>News</h2>
-
-- 2023.4.25 [ED-Batch](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf) is accepted to ICML23', thanks for professors and collaborators!
+- Aug. 2023 TileFlow is publicly available at https://github.com/gulang2019/TileFlow! 
+- Apr. 2023 [ED-Batch](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf) is accepted to ICML23', thanks for the mentor and professors!
 
 <h2>Publications</h2> (*Equal Contribution)
 

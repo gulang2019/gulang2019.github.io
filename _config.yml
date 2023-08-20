@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Siyuan Chen (陈思元)"
   avatar           : "photo.jpg"
-  bio              : "CS undergrad. at Peking University"
-  location         : "Beijing, China"
+  bio              : "CS Ph.D. student at Carnegie Mellon University"
+  location         : "GHC 6023"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :  "chensiyuan@pku.edu.cn"
+  email            :  "siyuanc3@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
