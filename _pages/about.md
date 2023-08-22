@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student at computer science department at Carnegie Mellon University. I finished my undergraduate at Turning Class of Peking University, where I was fortunately advised by [Yun (Eric) Liang](https://ericlyun.github.io/).
+I am a first year Ph.D. student at computer science department at Carnegie Mellon University. I finished my undergraduate at Turning Class of Peking University, where I was fortunately advised by [Yun (Eric) Liang](https://ericlyun.github.io/). During the summer of 2022, I had a wonderful research experience at CMU under the guidance of [Phil Gibbons](https://www.cs.cmu.edu/~gibbons/) and [Tianqi Chen](https://tqchen.com/).  
 
-My research interest lies broadly in developing sound and efficient software systems. Previously, I am deeply engaged in the machine learning system, working on performance modeling of data movement for tensor programs ([Chimera, HPCA23'](https://ieeexplore.ieee.org/abstract/document/10071018)), mapping mechanism from DNN to SoC (COMB, DAC23'),  RL-based inference framework for dynamic neural networks ([ED-Batch, ICML23'](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf)), and analytical-based simulator for fused program on general hardware (TileFlow, Upcomming). 
+My research interest lies broadly in developing sound and efficient software systems. Previously, I am deeply engaged in the machine learning system, working on performance modeling of data movement for tensor programs ([Chimera, HPCA23'](https://ieeexplore.ieee.org/abstract/document/10071018)), mapping mechanism from DNN to SoC ([COMB, DAC23'](https://gulang2019.github.io/files/comb_dac23.pdf)),  RL-based inference framework for dynamic neural networks ([ED-Batch, ICML23'](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf)), and analytical-based simulator for fused program on general hardware (TileFlow, Upcomming). 
 
 <h2>News</h2>
-- Aug. 2023 TileFlow is publicly available at https://github.com/gulang2019/TileFlow ! 
+- Aug. 2023 [TileFlow](https://github.com/gulang2019/TileFlow) is publicly available! 
 - Apr. 2023 [ED-Batch](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf) is accepted to ICML23', thanks for the mentor and professors!
 
 <h2>Publications</h2> (*Equal Contribution)
 
 - <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ICML 23'. [PDF](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf) [Code](https://github.com/gulang2019/ED-Batch) [Poster](https://icml.cc/media/PosterPDFs/ICML%202023/23611.png?t=1687519227.3393173) [Video](https://icml.cc/virtual/2023/poster/23611).
 
-- <b>COMB: Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC.</b> Size Zheng, <u>Siyuan Chen</u>, Yun Liang. The 60th Design Automation Conference (DAC), July 2023. [PDF]()
+- <b>COMB: Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC.</b> Size Zheng, <u>Siyuan Chen</u>, Yun Liang. The 60th Design Automation Conference (DAC), July 2023. [PDF](https://gulang2019.github.io/files/comb_dac23.pdf)
 
 - <b>Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.</b> Size Zheng*, <u>Siyuan Chen*</u>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. 29th international symposium on High Performance Computer Architecture (HPCA), February 2023. [PDF](https://ieeexplore.ieee.org/abstract/document/10071018).
 
