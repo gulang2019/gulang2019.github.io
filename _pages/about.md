@@ -20,7 +20,7 @@ My research interest lies broadly in developing sound and efficient software sys
 
 - <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ICML 23'. [PDF](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf) [Code](https://github.com/gulang2019/ED-Batch) [Poster](https://icml.cc/media/PosterPDFs/ICML%202023/23611.png?t=1687519227.3393173) [Video](https://icml.cc/virtual/2023/poster/23611).
 
-- <b>COMB: Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC.</b> Size Zheng, <u>Siyuan Chen</u>, Yun Liang. The 60th Design Automation Conference (DAC), July 2023. [PDF](https://gulang2019.github.io/files/comb_dac23.pdf)
+- <b>Memory and Computation Coordinated Mapping of DNNs onto Complex Heterogeneous SoC.</b> Size Zheng, <u>Siyuan Chen</u>, Yun Liang. The 60th Design Automation Conference (DAC), July 2023. [PDF](https://ieeexplore.ieee.org/abstract/document/10247951?casa_token=fLfp6Z8nwmwAAAAA:-nK4CrF2-17mS-cAtI65oKTbAL3EGTMdjG2IRkgF5HkjZpoluFRQCTmQAiNTzkSSjfAvptWFXQ)
 
 - <b>Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.</b> Size Zheng*, <u>Siyuan Chen*</u>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. 29th international symposium on High Performance Computer Architecture (HPCA), February 2023. [PDF](https://ieeexplore.ieee.org/abstract/document/10071018).
 
