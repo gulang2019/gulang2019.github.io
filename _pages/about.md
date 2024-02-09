@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student at computer science department at Carnegie Mellon University, happily advised by [Phil Gibbons](https://www.cs.cmu.edu/~gibbons/) and [Heather Miller](https://heather.miller.am/). I finished my undergraduate at Turning Class of Peking University, where I was fortunately advised by [Yun (Eric) Liang](https://ericlyun.github.io/).
+I am a first year Ph.D. student at computer science department at Carnegie Mellon University, happily advised by [Phil Gibbons](https://www.cs.cmu.edu/~gibbons/) and [Heather Miller](https://heather.miller.am/), and I am closely working with [Ben Titzer](https://s3d.cmu.edu/people/core-faculty/titzer-ben.html). I finished my undergraduate at Turning Class of Peking University, where I was fortunately advised by [Yun (Eric) Liang](https://ericlyun.github.io/).
 
-My research pursuit is to develop robust software systems with a focus on elegant algorithmic design. Currently, my primary concentration is the democratization of large-scale machine learning models on edge devices. More precisely, I am in the process of developing tools that allow the public to enjoy the benefits of large models, such as ChatGPT, on their devices through webpages and laptops.
+My research pursuit is to develop robust software systems with a focus on elegant algorithmic design. Currently, my concentration is on edge machine learning systems. More precisely, I am developing tools to enable efficient execution and cross-platform programming of machine learning models on edge devices through better memory management and the WebAssembly technology.
  
 Previously, I am deeply engaged in the machine learning system, working on performance modeling of data movement for tensor programs ([Chimera, HPCA23'](https://ieeexplore.ieee.org/abstract/document/10071018)), mapping mechanism from DNN to SoC ([COMB, DAC23'](https://ieeexplore.ieee.org/abstract/document/10247951?casa_token=fLfp6Z8nwmwAAAAA:-nK4CrF2-17mS-cAtI65oKTbAL3EGTMdjG2IRkgF5HkjZpoluFRQCTmQAiNTzkSSjfAvptWFXQ)), RL-based inference framework for dynamic neural networks ([ED-Batch, ICML23'](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf)), and analytical-based simulator for fused program on general hardware ([TileFlow, MICRO23'](https://gulang2019.github.io/files/tileflow-micro23.pdf)). 
 
