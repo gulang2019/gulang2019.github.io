@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second year Ph.D. student at computer science department at Carnegie Mellon University, happily advised by [Phil Gibbons](https://www.cs.cmu.edu/~gibbons/) and [Heather Miller](https://heather.miller.am/), and I am closely working with [Ben Titzer](https://s3d.cmu.edu/people/core-faculty/titzer-ben.html). I am a member of [PDL](https://www.pdl.cmu.edu/index.shtml) and [Catalyst](https://catalyst.cs.cmu.edu/) at CMU. I finished my undergraduate at Turning Class of Peking University, where I was fortunately advised by [Yun (Eric) Liang](https://ericlyun.github.io/).
 
-My research interests broadly focus on developing system support for machine learning. Specifically, I am interested in exploring system solutions for the efficient execution of irregular machine learning tasks. This includes optimizing the batching of dynamic neural networks ([ED-Batch, ICML23'](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf)) and automating scheduling techniques for large language model (LLM) serving. Additionally, I am concentrating on machine learning at the edge, which involves memory-efficient and high-precision fine-tuning on commodity hardware through compressed offloading ([LSP-Offload, Under Submission](https://gulang2019.github.io/files/LSP_Offload.pdf)), as well as enabling machine learning deployment in the browser via WebGPU.
+My research interests broadly focus on developing system support for machine learning. Specifically, I am interested in exploring system solutions for the efficient execution of irregular machine learning tasks. This includes optimizing the batching of dynamic neural networks ([ED-Batch, ICML23'](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf)) and automating scheduling techniques for large language model (LLM) serving. Additionally, I am concentrating on machine learning at the edge, which involves memory-efficient and high-precision fine-tuning on commodity hardware through compressed offloading ([LSP-Offload, AAAI 25'](https://gulang2019.github.io/files/LSP_Offload.pdf)), as well as enabling machine learning deployment in the browser via WebGPU.
  
 Previously, I am deeply engaged in hardware-aware optimizations for machine learning. I worked on performance modeling of data movement for tensor programs ([Chimera, HPCA23'](https://ieeexplore.ieee.org/abstract/document/10071018)), mapping mechanism from DNN to SoC ([COMB, DAC23'](https://ieeexplore.ieee.org/abstract/document/10247951?casa_token=fLfp6Z8nwmwAAAAA:-nK4CrF2-17mS-cAtI65oKTbAL3EGTMdjG2IRkgF5HkjZpoluFRQCTmQAiNTzkSSjfAvptWFXQ)), and analytical-based simulator for fused program on general hardware ([TileFlow, MICRO23'](https://gulang2019.github.io/files/tileflow-micro23.pdf)). 
 
@@ -22,6 +22,9 @@ Previously, I am deeply engaged in hardware-aware optimizations for machine lear
 
 <h2>Publications</h2> (*Equal Contribution)
 
+- <b>Practical Offloading for Fine-Tuning LLM on Commodity GPU
+via Learned Sparse Projectors</b> <u>Siyuan Chen</u>, Zhuofeng Wang, Zelong Guan, Yudong Liu, Phillip B. Gibbons. AAAI 25. [Full Version](https://arxiv.org/html/2406.10181v1), [Code](https://github.com/gulang2019/LSP-Offload).
+
 - <b>TileFlow: A Framework for Modeling Fusion Dataflow via Tree-based Analysis.</b> Size Zheng, <u>Siyuan Chen</u>, Siyuan Gao, Liancheng Jia, Guangyu Sun, Runsheng Wang, Yun Liang. MICRO 2023. [PDF](https://gulang2019.github.io/files/tileflow-micro23.pdf)
 
 - <b>ED-Batch: Efficient Automatic Batching of Dynamic Deep Neural Networks via Finite State Machine.</b> <u>Siyuan Chen</u>, Pratik Fegade, Tianqi Chen, Phillip B. Gibbons, Todd C. Mowry. ICML 23'. [PDF](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf) [Code](https://github.com/gulang2019/ED-Batch) [Poster](https://icml.cc/media/PosterPDFs/ICML%202023/23611.png?t=1687519227.3393173) [Video](https://icml.cc/virtual/2023/poster/23611).
@@ -30,9 +33,8 @@ Previously, I am deeply engaged in hardware-aware optimizations for machine lear
 
 - <b>Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.</b> Size Zheng*, <u>Siyuan Chen*</u>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. 29th international symposium on High Performance Computer Architecture (HPCA), February 2023. [PDF](https://ieeexplore.ieee.org/abstract/document/10071018).
 
-<h2> Under Submission </h2>
-- <b>Practical Offloading for Fine-Tuning LLM on Commodity GPU
-via Learned Sparse Projectors</b> <u>Siyuan Chen</u>, Zhuofeng Wang, Zelong Guan, Yudong Liu, Phillip B. Gibbons. [PDF](https://gulang2019.github.io/files/LSP_Offload.pdf)
+<h2> Preprint </h2>
+- <b>RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage.</b> Peter Yong Zhong*, <u>Siyuan Chen*</u>, Ruiqi Wang, McKenna McCall, Ben L. Titzer, Heather Miller, Phillip B. Gibbons.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
