@@ -10,13 +10,23 @@ redirect_from:
 
 I am a second year Ph.D. student at computer science department at Carnegie Mellon University, happily advised by [Phil Gibbons](https://www.cs.cmu.edu/~gibbons/) and [Heather Miller](https://heather.miller.am/), and I am closely working with [Ben Titzer](https://s3d.cmu.edu/people/core-faculty/titzer-ben.html). I am a member of [PDL](https://www.pdl.cmu.edu/index.shtml) and [Catalyst](https://catalyst.cs.cmu.edu/) at CMU. I finished my undergraduate at Turning Class of Peking University, where I was fortunately advised by [Yun (Eric) Liang](https://ericlyun.github.io/).
 
-My research interests broadly focus on developing system support for machine learning. Specifically, I am interested in exploring system solutions for the efficient execution of irregular machine learning tasks. This includes optimizing the batching of dynamic neural networks ([ED-Batch, ICML23'](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf)) and automating scheduling techniques for large language model (LLM) serving. Additionally, I am concentrating on machine learning at the edge, which involves memory-efficient and high-precision fine-tuning on commodity hardware through compressed offloading ([LSP-Offload, AAAI 25'](https://gulang2019.github.io/files/LSP_Offload.pdf)), as well as enabling machine learning deployment in the browser via WebGPU.
+My research interests lie in system for machine learning, especially providing efficient and secure solutions for post-trained systems. For instance, I worked on LLM fine-tuning on commodity hardware through compressed offloading ([LSP-Offload, AAAI'25](https://gulang2019.github.io/files/LSP_Offload.pdf)), SLO-customized LLM serving ([SLOs-Serve, Preprint](https://arxiv.org/abs/2504.08784)), and defense against prompt injection attck in tool based agentic systems ([RTBAS, Preprint](https://arxiv.org/abs/2502.08966)).
  
-Previously, I am deeply engaged in hardware-aware optimizations for machine learning. I worked on performance modeling of data movement for tensor programs ([Chimera, HPCA23'](https://ieeexplore.ieee.org/abstract/document/10071018)), mapping mechanism from DNN to SoC ([COMB, DAC23'](https://ieeexplore.ieee.org/abstract/document/10247951?casa_token=fLfp6Z8nwmwAAAAA:-nK4CrF2-17mS-cAtI65oKTbAL3EGTMdjG2IRkgF5HkjZpoluFRQCTmQAiNTzkSSjfAvptWFXQ)), and analytical-based simulator for fused program on general hardware ([TileFlow, MICRO23'](https://gulang2019.github.io/files/tileflow-micro23.pdf)). 
+Before PhD, I am engaged in machine learning compiler and runtime optimizations. I worked on optimizing the batching of dynamic neural networks ([ED-Batch, ICML23'](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf)), performance modeling of data movement for tensor programs ([Chimera, HPCA'23](https://ieeexplore.ieee.org/abstract/document/10071018)), mapping mechanism from DNN to SoC ([COMB, DAC'23](https://ieeexplore.ieee.org/abstract/document/10247951?casa_token=fLfp6Z8nwmwAAAAA:-nK4CrF2-17mS-cAtI65oKTbAL3EGTMdjG2IRkgF5HkjZpoluFRQCTmQAiNTzkSSjfAvptWFXQ)), and analytical-based simulator for fused program on general hardware ([TileFlow, MICRO'23](https://gulang2019.github.io/files/tileflow-micro23.pdf)).
 
 <h2>News</h2>
-- Jun. 2024 I begin the internship as student researcher in SystemResearch@Google (SRG) working on LLM serving, hosted by Samira Khan.  
-- Sept. 2023 I am starting CS PhD at Carnegie Mellon University, co-advised by [Phil Gibbons](https://www.cs.cmu.edu/~gibbons/) and [Heather Miller](https://heather.miller.am/). Hope for a stimulating and fruitful journey at Pittsburgh! 
+
+- <b>May 2025.</b> I am in SystemResearch@Google(SRG) this summer working on RL systems, hosted by Samira Khan.  
+
+- <b>May 2025.</b> I am honored to be selected as the [ML commons ML and System Rising Stars](https://mlcommons.org/about-us/programs/#:~:text=Rising%20Stars,-The%20MLCommons%20ML%20and%20Systems), great thanks to the organizer and my advisors!
+
+- <b>Apr. 2025.</b> A new paper [RTBAS](https://arxiv.org/abs/2502.08966) on Arxiv, where we develop a novel approach to reduce user fatigue in tool-based agentic system. 
+
+- <b>Mar. 2025.</b> A new paper [SLOs-Serve](https://arxiv.org/abs/2504.08784) on Arxiv, where we develop a novel scheduling algorithm to support customized service level objectives in LLM Serving.
+
+- <b>June 2024.</b> I begin the internship as student researcher in SystemResearch@Google (SRG) working on LLM serving, hosted by Samira Khan.  
+
+- <b>Sept. 2023.</b> I am starting CS PhD at Carnegie Mellon University, co-advised by [Phil Gibbons](https://www.cs.cmu.edu/~gibbons/) and [Heather Miller](https://heather.miller.am/). Hope for a stimulating and fruitful journey at Pittsburgh! 
 - Aug. 2023 [TileFlow](https://github.com/gulang2019/TileFlow) is publicly available! 
 - Apr. 2023 [ED-Batch](http://proceedings.mlr.press/v202/chen23g/chen23g.pdf) is accepted to ICML23', thanks for the mentor and professors!
 
@@ -34,7 +44,10 @@ via Learned Sparse Projectors</b> <u>Siyuan Chen</u>, Zhuofeng Wang, Zelong Guan
 - <b>Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.</b> Size Zheng*, <u>Siyuan Chen*</u>, Pedi Song, Renze Chen, Xiuhong Li, Shengen Yan, Dahua Lin, Jingwen Leng, Yun Liang. 29th international symposium on High Performance Computer Architecture (HPCA), February 2023. [PDF](https://ieeexplore.ieee.org/abstract/document/10071018).
 
 <h2> Preprint </h2>
-- <b>RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage.</b> Peter Yong Zhong*, <u>Siyuan Chen*</u>, Ruiqi Wang, McKenna McCall, Ben L. Titzer, Heather Miller, Phillip B. Gibbons.
+
+- <b>SLOs-Serve: Optimized Serving of Multi-SLO LLMs. </b> <u>Siyuan Chen</u>, Zhipeng Jia, Samira Khan, Arvind Krishnamurthy, and Phillip B. Gibbons. [Arxiv Preprint](https://arxiv.org/abs/2504.08784)
+
+- <b>RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage.</b> Peter Yong Zhong*, <u>Siyuan Chen*</u>, Ruiqi Wang, McKenna McCall, Ben L. Titzer, Heather Miller, Phillip B. Gibbons. [Arxiv Preprint](https://arxiv.org/abs/2502.08966)
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
